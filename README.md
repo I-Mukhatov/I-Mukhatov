@@ -1,7 +1,6 @@
 # Hi, I'm Ilya A. Mukhatov
 
-**Aspiring Data Analyst | Career Transitioner from Technical Operations to Data Intelligence**  
-Ottawa, Canada | Focused on turning complex data into actionable insights  
+An aspiring Data Analyst, focused on turning complex data into actionable insights, looking for career transition from technical operations to Data Intelligence.
 
 ---
 
