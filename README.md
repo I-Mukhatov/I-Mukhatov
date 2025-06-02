@@ -43,7 +43,7 @@ Ongoing public health analysis of restaurant inspection data, visualized through
 
 ## Certifications
 
-[![SQL Associate Badge](images/SQL_Associate_badge_with_outline.png)](https://www.datacamp.com/certificate/SQA0013681072594)  
+[![SQL Associate Badge](images/sql_associate_badge_with_outline.png)](https://www.datacamp.com/certificate/SQA0013681072594)  
 **DataCamp SQL Associate** – Earned May, 2025*
 
 [![Data Analyst Associate Badge](images/DA_Associate_badge_with_outline.png)](https://www.datacamp.com/certificate/DAA0013338135826)  
