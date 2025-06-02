@@ -21,7 +21,7 @@ My journey is fueled by curiosity, a passion for process optimization, and a com
 `Power BI`, `Tableau`, `Jupyter Notebook`
 
 **Data Engineering & Workflow Tools:**  
-`dbt`, `MS Access`, `Power Query`, `VBA`, `Git/GitHub`
+`dbt`, `Snowflake`, `Power Query`, `VBA`, `Git/GitHub`
 
 ---
 
