@@ -35,7 +35,7 @@ Exploratory and tactical performance insights drawn from UEFA Champions League m
 *SPC & Process Optimization*  
 A real-world inspired project that applies SQL and Python to assess process stability using SPC techniques. Includes alert rate diagnostics and operator performance tracking.
 
-### 🗽 [NYC Restaurant Inspection Analysis (In Progress)](https://github.com/yourusername/nyc-restaurant-inspection)
+### 🗽 [NYC Restaurant Inspection Analysis (In Progress)](https://github.com/I-Mukhatov/NYC-restaurant-inspection-analysis)
 *PostgreSQL & Tableau*  
 Ongoing public health analysis of restaurant inspection data, visualized through Tableau dashboards to reveal trends and critical violations by cuisine and borough.
 
@@ -71,7 +71,7 @@ After years of working with hardware, lab systems, and automation, I realized th
 - a.mukhatov@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/ilyamukhatov/)
 - [kaggle](https://www.kaggle.com/annamamedmukhatov)
-- 🧠 Always open to collaboration, learning, and feedback!
+- Always open to collaboration, learning, and feedback!
 
 ---
 
