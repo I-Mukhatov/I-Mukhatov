@@ -68,10 +68,11 @@ After years of working with hardware, lab systems, and automation, I realized th
 ## Let’s Connect
 
 - 🔗 [Portfolio Website (GitHub Pages)](https://i-mukhatov.github.io)  
-- 📧 Email: a.mukhatov@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ilyamukhatov/)  
+- a.mukhatov@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/ilyamukhatov/)
+- [kaggle](https://www.kaggle.com/annamamedmukhatov)
 - 🧠 Always open to collaboration, learning, and feedback!
 
 ---
 
-> *“Data is only as valuable as the action it inspires.” – That’s the principle guiding everything I build.*  
+*“Data is only as valuable as the action it inspires.” – That’s the principle guiding everything I build.*  
