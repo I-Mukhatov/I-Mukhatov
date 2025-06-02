@@ -1,14 +1,14 @@
 # Hi, I'm Ilya A. Mukhatov
 
-An aspiring Data Analyst, focused on turning complex data into actionable insights, looking for career transition from technical operations to Data Intelligence.
+Aspiring Data Analyst transforming complex data into actionable insights, with a background in technical operations and a focus on data-driven decision-making.
 
 ---
 
 ## About Me
 
-I'm a former Electrical Technologist with 5+ years of experience in the healthcare industry (Abbott Point of Care), now transitioning into the world of **Data Analytics and Data Science**.
+I'm a former Electrical Technologist with over 5 years of experience in the healthcare industry (Abbott Point of Care), now transitioning into the field of Data Analytics and Data Science.
 
-My journey is driven by curiosity, a passion for optimization, and a commitment to continuous learning. I've earned multiple DataCamp certifications (SQL Associate, Data Analyst Associate, and in progress: Data Engineer Associate), and I’m using this foundation to build real-world, data-driven solutions across domains like sports analytics, manufacturing, and public health.
+My journey is fueled by curiosity, a passion for process optimization, and a commitment to continuous learning. I've earned multiple DataCamp certifications, including SQL Associate and Data Analyst Associate, with the Data Engineer Associate in progress. I apply these skills to develop practical, insight-driven analytics projects across domains such as sports performance, manufacturing quality control, public health analysis, and health sciences.
 
 ---
 
