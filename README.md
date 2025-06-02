@@ -31,7 +31,7 @@ My journey is fueled by curiosity, a passion for process optimization, and a com
 *Snowflake SQL & Python*  
 Exploratory and tactical performance insights drawn from UEFA Champions League match data. Includes advanced SQL queries, team comparisons, and Python visualizations.
 
-### ⚙️ [Evaluating a Manufacturing Process using SQL & Python](https://github.com/yourusername/spc-manufacturing-analysis)
+### ⚙️ [Evaluating a Manufacturing Process using SQL & Python](https://github.com/I-Mukhatov/sql-spc-analysis)
 *SPC & Process Optimization*  
 A real-world inspired project that applies SQL and Python to assess process stability using SPC techniques. Includes alert rate diagnostics and operator performance tracking.
 
