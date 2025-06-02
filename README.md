@@ -27,7 +27,7 @@ My journey is fueled by curiosity, a passion for process optimization, and a com
 
 ## Featured Projects
 
-### 📊 [UEFA Champions League Analytics (2020–2022)](https://github.com/yourusername/uefa-champions-league-analytics)
+### 📊 [UEFA Champions League Analytics (2020–2022)](https://github.com/I-Mukhatov/uefa-soccer-insights-sql-python)
 *Snowflake SQL & Python*  
 Exploratory and tactical performance insights drawn from UEFA Champions League match data. Includes advanced SQL queries, team comparisons, and Python visualizations.
 
