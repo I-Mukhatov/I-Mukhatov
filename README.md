@@ -46,7 +46,7 @@ Ongoing public health analysis of restaurant inspection data, visualized through
 [![SQL Associate Badge](images/sql_associate_badge_with_outline.png)](https://www.datacamp.com/certificate/SQA0013681072594)  
 **DataCamp SQL Associate** – Earned May, 2025*
 
-[![Data Analyst Associate Badge](images/DA_Associate_badge_with_outline.png)](https://www.datacamp.com/certificate/DAA0013338135826)  
+[![Data Analyst Associate Badge](images/da_associate_badge_with_outline.png)](https://www.datacamp.com/certificate/DAA0013338135826)  
 **DataCamp Data Analyst Associate** – Earned May, 2025*
 
 ---
@@ -67,7 +67,7 @@ After years of working with hardware, lab systems, and automation, I realized th
 
 ## Let’s Connect
 
-- 🔗 [Portfolio Website (GitHub Pages)](https://i-mukhatov.github.io)  
+- [Portfolio @ GitHub Pages](https://i-mukhatov.github.io)  
 - a.mukhatov@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/ilyamukhatov/)
 - [kaggle](https://www.kaggle.com/annamamedmukhatov)
